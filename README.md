@@ -26,7 +26,7 @@ _LTCI, Télécom Paris, Institut Polytechnique de Paris, France_
 
 NoPdb is available under the BSD 3-Clause license and installable from PyPI via `pip install nopdb`.
 
-The first part of this notebook goes over the core NoPdb features mentioned above. People familiar with deep learning might want to skip to the second part, which shows how to use these features to visualize Vision Transformer attention maps.
+The first part of [the poster](https://mybinder.org/v2/gh/cifkao/scipy2022-nopdb/main?labpath=nopdb_poster.ipynb) goes over the core NoPdb features mentioned above. People familiar with deep learning might want to skip to the second part, which shows how to use these features to visualize Vision Transformer attention maps.
 
 <hr>
 
